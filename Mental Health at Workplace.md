@@ -3,12 +3,8 @@
 | 1 | Introduction |
 | ----- |----- |
 | 2 | What is driving stress in the workplace |
-| ----- |----- |
 | 3 | Impact on the Workplace |
-| ----- |----- |
 | 4 | Impact by Industry |
-| ----- |----- |
-| 5 | Addressing Mental Stress in the *** Covid Era *** |
-| ----- |----- |
+| 5 | Addressing Mental Stress in the **Covid Era** |
 | 6 | Conclusion |
-| ----- |-----
+
