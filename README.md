@@ -39,3 +39,10 @@ _
  
  Iam so joy :joy:
  I == am == so joy :joy:
+
+Here's a simple footnote[^1] and here's  a longer one [^bignote]
+[^1]: https://www.w3schools.com/whatis/whatis_github.asp
+[^bignote]: Here's a one with multiple paragraph and code.
+Indent paragraph to include thm in the footnote.
+`{your code}`
+Add paragraphs 
