@@ -46,3 +46,6 @@ Here's a simple footnote[^1] and here's  a longer one [^bignote]
 Indent paragraph to include thm in the footnote.
 `{your code}`
 Add paragraphs 
+
+
+You can ~~strikethrough~~
