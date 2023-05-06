@@ -23,8 +23,7 @@ ________________________________________________________________________________
 - first item
 - second item
 - third item 
-       -item 1
-       -item 2
-       -item 3
-       -item 4
+   * item 1
+   * item 2
+       
 - fourth item
