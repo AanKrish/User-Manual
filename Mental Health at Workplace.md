@@ -1,5 +1,5 @@
-## Mental Health at Workplace (Trends and Strategies for Supporting your workplace in the Covid Era)
-### Contents
+# Mental Health at Workplace (Trends and Strategies for Supporting your workplace in the Covid Era)
+## Contents
   1. Introduction
   2. What is driving stress in the workplace 
   3. Impact on the Workplace 
@@ -7,7 +7,7 @@
   5. Addressing Mental Stress in the **Covid Era** 
   6. Conclusion 
  ____________________________________________________________________________________________________________________________________________________________________
-### Introduction
+## Introduction
 We are in the middle of great mental health awakening. The Impact of COVID-19 pandemic has shined a long-overdue spotlight on the importance of mental health. Every single person has experienced a mental health challenge of some level during the pandemic.
 
 The changing behaviors that we are currently experiencing are a direct result of people’s lives being overwhelmingly disrupted. Even people who were not prone to mental health issues before the pandemic might be now. And many will continue to have ongoing struggles with how to get back to normal life at home and work. 
@@ -19,7 +19,7 @@ This whitepaper explores:
 - Strategies for addressing mental health in the “COVID Era.
 In January 2021, a quarter of employees indicated that they were planning to quit their jobs post-COVID.17.
 ______________________________________________________________________________________________________________________________________________________________________
-### WHAT IS DRIVING DISTRESS IN THE WORKPLACE?
+## WHAT IS DRIVING DISTRESS IN THE WORKPLACE?
 A tsunami of traumatic events devastated our world as we knew it in 2020. Even before 2020, workers were already feeling distressed in the workplace. Distress in the workplace can be caused by a variety of factors. Some common drivers of distress in the workplace include: 
 - Workload: Heavy Workloads, unrealistic deadlines, and a lack of support or resources can lead to stress and burnout.
 - Work Life Balance: A lack of balance between work and personal life can lead to stress, exhaustion, and a feeling of overwhelmed.
@@ -28,3 +28,8 @@ A tsunami of traumatic events devastated our world as we knew it in 2020. Even b
 - Lack of autonomy: A lack of autonomy or control over one’s work led to frustration and stress.
 - Discrimination and harassment: Discrimination and harassment can create a toxic work environment, leading to stress and mental health issues for employees.
 - Job Insecurity: Fear of job loss, restructuring, or downsizing can lead to stress, anxiety, and burnout.
+Let us now take a deeper look at what is driving distress in the workplace in 2021.
+### COVID-19 Pandemic
+Lives and businesses were completely disrupted when COVID-19 quickly spread globally from Wuhan, China in late 2019. Governments, businesses, communities, and individuals were not prepared for this historic event and were forced to rapidly adapt. Millions of workers were sent home to work remotely for the first time in their lives. Kids were sent home from school with no immediate plans to resume education, further complicating remote work for many parents.
+Traumatic Events Driving Distress in the Workplace:
+![image](https://user-images.githubusercontent.com/132736981/236837319-d39baa09-d453-4b21-99b8-bd463d8e0e1f.png)
