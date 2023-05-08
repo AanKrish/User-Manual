@@ -37,5 +37,9 @@ Traumatic Events Driving Distress in the Workplace:
 ![image](https://user-images.githubusercontent.com/132736981/236837319-d39baa09-d453-4b21-99b8-bd463d8e0e1f.png)
 
 Essential workers continued to show up to work on the frontlines whether at the hospital or the grocery store. Daily, they feared they might contact the virus or bring it home to their family members. Lockdowns forced everyone to live in isolation, eliminating in-person connection to family, friends, neighbors, and colleagues. Many businesses had to lay off employees creating significant financial stress for individuals as well as business owners. The pandemic also forced scores of women out of the workforce to provide caregiving. There are 1.8 million fewer women in the workforce now than pre-COVID. 
-All these major disruptions to our everyday lives had a tremendous impact on our mental health. Fast forward a year and a half later, and we are still struggling. 
-For a large part of the country, mask policies have been relaxed. While this is great news to many, others are still worried about the spread of the virus. A large part of the population is now vaccinated. Many employers have already pushed back their return to the workplace. The pandemic has been a great disrupter in our lives. It’s hard to predict how long the pandemic will last and the damaging effects. 
+
+All these major disruptions to our everyday lives had a tremendous impact on our mental health. Fast forward a year and a half later, and we are still struggling.
+
+For a large part of the country, mask policies have been relaxed. While this is great news to many, others are still worried about the spread of the virus. A large part of the population is now vaccinated. 
+
+Many employers have already pushed back their return to the workplace. The pandemic has been a great disrupter in our lives. It’s hard to predict how long the pandemic will last and the damaging effects. 
