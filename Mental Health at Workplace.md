@@ -31,6 +31,7 @@ A tsunami of traumatic events devastated our world as we knew it in 2020. Even b
 Let us now take a deeper look at what is driving distress in the workplace in 2021.
 ### COVID-19 Pandemic
 Lives and businesses were completely disrupted when COVID-19 quickly spread globally from Wuhan, China in late 2019. Governments, businesses, communities, and individuals were not prepared for this historic event and were forced to rapidly adapt. Millions of workers were sent home to work remotely for the first time in their lives. Kids were sent home from school with no immediate plans to resume education, further complicating remote work for many parents.
+
 Traumatic Events Driving Distress in the Workplace:
 
 ![image](https://user-images.githubusercontent.com/132736981/236837319-d39baa09-d453-4b21-99b8-bd463d8e0e1f.png)
