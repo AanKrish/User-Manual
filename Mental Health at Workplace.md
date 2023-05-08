@@ -13,5 +13,5 @@ We are in the middle of great mental health awakening. The Impact of COVID-19 pa
 The changing behaviors that we are currently experiencing are a direct result of people’s lives being overwhelmingly disrupted. Even people who were not prone to mental health issues before the pandemic might be now. And many will continue to have ongoing struggles with how to get back to normal life at home and work. 
 
 This whitepaper explores: 
-. 	" What is driving distress in the workplace? " 
+1. What is driving distress in the workplace? " 
 
