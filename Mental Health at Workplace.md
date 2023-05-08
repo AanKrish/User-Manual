@@ -29,7 +29,7 @@ A tsunami of traumatic events devastated our world as we knew it in 2020. Even b
 - Discrimination and harassment: Discrimination and harassment can create a toxic work environment, leading to stress and mental health issues for employees.
 - Job Insecurity: Fear of job loss, restructuring, or downsizing can lead to stress, anxiety, and burnout.
 Let us now take a deeper look at what is driving distress in the workplace in 2021.
-### COVID-19 Pandemic
+#### COVID-19 Pandemic
 Lives and businesses were completely disrupted when COVID-19 quickly spread globally from Wuhan, China in late 2019. Governments, businesses, communities, and individuals were not prepared for this historic event and were forced to rapidly adapt. Millions of workers were sent home to work remotely for the first time in their lives. Kids were sent home from school with no immediate plans to resume education, further complicating remote work for many parents.
 
 Traumatic Events Driving Distress in the Workplace:
