@@ -65,5 +65,7 @@ The pandemic has not only put an enormous strain on our mental health, but it ha
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## IMPACT ON THE WORKPLACE
 It is documented that unresolved mental health issues can decrease work performance and company morale and increase absenteeism, turnover, safety incidents, and claims costs.
+
 In the first half of 2021, BHS has seen the following year-over-year workplace management referrals trends:
+
 ![image](https://github.com/AanKrish/User-Manual/assets/132736981/7bde66ed-0be4-42a5-9add-13d87300344c)
