@@ -45,3 +45,9 @@ For a large part of the country, mask policies have been relaxed. While this is 
 Many employers have already pushed back their return to the workplace. The pandemic has been a great disrupter in our lives. It’s hard to predict how long the pandemic will last and the damaging effects. 
 #### Burnout
 Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress. It can happen to anyone – managers and employees alike. With the shift to remote work, studies have shown that productivity has increased. This can largely be attributed to fewer distractions and a more flexible work schedule. However, rates of burnout have increased significantly since the shift to remote work. 
+- 89% of respondents said their work life was getting worse.
+- 85% said their well-being had declined.
+- 56% said their job demands had increased.
+- 62% of the people who were struggling to manage their workloads had experienced burnout “often.”
+- 57% of employees felt that the pandemic had a large effect on their work.
+As employers continue to be challenged with employees changing careers, leaving their jobs and a workforce shortage, more is being expected of employees to fill the gaps. These added responsibilities bring more pressure to an already overworked workforce, causing higher levels of stress and burnout.
