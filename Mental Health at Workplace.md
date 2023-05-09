@@ -43,3 +43,4 @@ All these major disruptions to our everyday lives had a tremendous impact on our
 For a large part of the country, mask policies have been relaxed. While this is great news to many, others are still worried about the spread of the virus. A large part of the population is now vaccinated. 
 
 Many employers have already pushed back their return to the workplace. The pandemic has been a great disrupter in our lives. It’s hard to predict how long the pandemic will last and the damaging effects. 
+###Burnout
