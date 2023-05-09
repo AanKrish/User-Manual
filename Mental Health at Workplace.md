@@ -50,4 +50,5 @@ Burnout is a state of emotional, mental, and physical exhaustion caused by exces
 - 56% said their job demands had increased.
 - 62% of the people who were struggling to manage their workloads had experienced burnout “often.”
 - 57% of employees felt that the pandemic had a large effect on their work.
+
 As employers continue to be challenged with employees changing careers, leaving their jobs and a workforce shortage, more is being expected of employees to fill the gaps. These added responsibilities bring more pressure to an already overworked workforce, causing higher levels of stress and burnout.
