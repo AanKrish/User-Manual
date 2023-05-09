@@ -43,4 +43,5 @@ All these major disruptions to our everyday lives had a tremendous impact on our
 For a large part of the country, mask policies have been relaxed. While this is great news to many, others are still worried about the spread of the virus. A large part of the population is now vaccinated. 
 
 Many employers have already pushed back their return to the workplace. The pandemic has been a great disrupter in our lives. It’s hard to predict how long the pandemic will last and the damaging effects. 
-###Burnout
+#### Burnout
+Burnout is a state of emotional, mental, and physical exhaustion caused by excessive and prolonged stress. It can happen to anyone – managers and employees alike. With the shift to remote work, studies have shown that productivity has increased. This can largely be attributed to fewer distractions and a more flexible work schedule. However, rates of burnout have increased significantly since the shift to remote work. 
