@@ -89,4 +89,9 @@ Burnout is the most common mental health challenge within the professional and b
 #### Education    
 The toll of the pandemic on education has been detrimental for educators and students alike. Teachers are exhausted, stressed and burned out. Since the start of the pandemic, teachers (and students) have been asked to adjust to remote, hybrid and in-person teaching. Teachers in a hybrid or in-person environment also have the same fears as healthcare workers about transmitting COVID-19 to family members. Like many other industries, teachers are also leaving or are considering leaving the profession. Like many other industries, teachers are also leaving or are considering leaving the profession. Students are also struggling through the pandemic. A study on the Effects of COVID-19 on College Students’ Mental Health in the United States revealed that 71 percent of students felt an increase in stress and anxiety. Other negative effects included fear and worry about their health, difficulty concentrating, poor sleeping patterns and decreased social interaction.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
+## STRATEGIES FOR ADDRESSING MENTAL HEALTH IN THE “COVID ERA”
+As some organizations prepare to invite individuals back to the workplace, they must have a clear strategy for addressing mental health and wellbeing. 
+
+Here are several strategies to address mental health in the new workplace :
+#### Invest in Empathetic Leadership
 
